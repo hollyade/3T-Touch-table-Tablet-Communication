@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/startBackground">
+    <RelativeLayout
+        android:layout_height="0dip"
+        android:layout_width="match_parent"
+        android:layout_weight="0.2">
+
+        <!--<Button-->
+            <!--style="?android:attr/buttonStyleSmall"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="Mock Table Connection"-->
+            <!--android:background="@color/colorAccent"-->
+            <!--android:textColor="@android:color/white"-->
+            <!--android:id="@+id/tableConnectionTestButton"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_centerHorizontal="true" />-->
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_height="0dip"
+        android:layout_width="match_parent"
+        android:layout_weight="0.4">
+
+        <!-- This is the part that's 70% of the total width. I'm inserting a LinearLayout and buttons.-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/title_logo"
+                android:layout_gravity="center_horizontal"
+                android:src="@drawable/title_logo_3t_black_white"
+                android:clickable="true">
+            </ImageView>
+
+        </LinearLayout>
+        <!-- 70% Width End-->
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_height="0dip"
+        android:layout_width="match_parent"
+        android:layout_weight="0.4"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20sp"
+            android:text="Please Connect Table"
+            android:id="@+id/tableConnectionNote"
+            android:layout_alignParentTop="true"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start"
+            android:id="@+id/startButton"
+            android:visibility="invisible"
+            android:background="@color/startButtonDull"
+            android:textColor="@color/colorAccent"
+            android:textSize="40sp"
+            android:paddingTop="25dp"
+            android:paddingBottom="30dp"
+            android:paddingLeft="50dp"
+            android:paddingRight="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/tableConnectionNote" />
+
+    </RelativeLayout>
+</LinearLayout>

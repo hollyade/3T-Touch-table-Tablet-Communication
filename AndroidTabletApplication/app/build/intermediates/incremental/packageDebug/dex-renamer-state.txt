@@ -1,0 +1,7 @@
+#Tue Sep 27 21:46:17 NZDT 2016
+base.0=/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_10693fd9d99b7606c4caafbf6bd58874a8a6a89c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9cffb80d90a86d0a2163eb8a40f0b39a8935e18/classes.dex
+base.1=/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9cffb80d90a86d0a2163eb8a40f0b39a8935e18
+file.0=/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_10693fd9d99b7606c4caafbf6bd58874a8a6a89c/classes.dex

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "244743977891",
+    "firebase_url": "https://hollyadehonours.firebaseio.com",
+    "project_id": "hollyadehonours",
+    "storage_bucket": "hollyadehonours.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244743977891:android:c8023f6e7489f530",
+        "android_client_info": {
+          "package_name": "com.hollyade.honours3t"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244743977891-74e47sf7jcaqvr4bod4bk0a7935qa2vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBYdQNOFigNNfiCwlWavtoIOJfF3-Nt4g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

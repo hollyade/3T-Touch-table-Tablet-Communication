@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/tubesock-0.0.12_99e9e3debda8dfcb48d04ecd441dd494b192c085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_7e579d889869cf88477ccd08eb3f51fdfe4fbf77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c4c941d15c19c20d892321b65ac56bc3146cb0eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8e75df2cad823ad2ff61796103154c60d99e1cf5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_f623c8b37ea34f282f0272fb4846eb9930fe4a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_158f7c25a6e0602957bb7d38620b76717dba00e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_f74574e919d7ccacdd00e04f4a97a6da7e82c95e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_69904cacdaea6d7a13376d3e550c5e94972aa2e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_26f8251551ff633cf1d3e9d411f81aac4820b6d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_ef98d6cad2bbbd1865170126115c8734dd38a84e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_c94f6a3bb50a60a46cfcdf50f3e2be9ec08ac361/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_07c3b81827f0b3b006ce9d8b4e77326c34874e5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_8b2543d4fd011da81fee57f8e6f7d04dd85b1b6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_28b484f75c99b00fc2debd2cc166095b86473fce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_72a11d53840c383ca0c23a180be4f3885925665b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_a8de2ce2104469e193595f7871740ecf2c71e2ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_7b07f6fab26871d0b8fcdbce9d6dc4be029b7bce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_66655c0b864d00ee99cef1d355089a6264fe5105/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_c6749e5a07b2d65ed42d90547a708dfdb4f98296/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_f8a7c69e17e6eaca17204e108244fa363497dace/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_a8749151250d89c68a20f6df1af8c10f5cb52e4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_a3ec7655c40ccaf33ba9301f434367e316f94aa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_5050f8d86642267f7e50ba007b8e9900f0d3d786/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_6f9936fe101b7b5995ace5556f4a45b2255e503b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_c73314119ef747e5790fb06a5065c6daf2452653/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_29edadc9d104bec0f4465fad0e8aa09b6da3a01b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_4afe39af2dba72f404b1a087c35679bbf85332eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_0ba1d2364d9b596535707cf1d46a747ad325d674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_7c19e1b630f64ea52e78402e9ffc9d0ceb7e93d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_7406d5590afb1b6b77fe7f8160bdff6999b62a26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_643b2bad5b53a4ca1a2e7aea6874cc7a836a7827/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c443658cb91855f11a7ee07e8552b71620f282ee">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_10693fd9d99b7606c4caafbf6bd58874a8a6a89c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_83db868bdf352990eb01718b34ec2e25f2e8c748/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_ea8c9e72494f7feb0c7848380af7d39dc25f396f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_68aa11309c4b77e1f44668aa1b178564f4a9af4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8915b49ddd9099ca9c610b392255f573f346f432/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_f618d66b27462cfb14dbe933b4e4cd0cbcc30b49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_73e7b05e41e3dd0a0cf30e846e8477a4c1e0eb17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="402733a7ccd1c2ef395a74b3aa6a0460172c4d14">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c9cffb80d90a86d0a2163eb8a40f0b39a8935e18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-jvm-2.5.2_4e6c4793ff87f04e74c5dedcac1f4afe9934b351/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_218a4cc3d3a940e6d363c661aebb6d157fbd5a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_198fbcca7cce62cbf412ba1a51e9c0765e2b7765/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_515c064ace2714f6e84bf9b6f21ce8a49ffbbabe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_3402f6764f91c86cbff528ab8216a7f236fb71a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_9e5d64c235f813ae3431b9dbc16f34cacba97262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_1ba254fa760bee9e3a666cb018cbfd5b15a65a57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_d67028bf5da5499c69bbaa6cfd13a2ffa3e12cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_78ebfa57072a373cae5bb36828a843404ea2fb49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_efbbfc6759abcb7a39aacee3b122d160d9ca3845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_ca37e7487b1e5d783d23bec454741d0b437683c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_d6a93144b3487462185d4075ad6647b9ab4d85b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_57013f2c259e4e82a0fce2c17441c3496b172d54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_855ab1b18e1aa6e8cccc3d88f2fb6ff1581b4a9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_a690f4ea3e8acc00647a1b74f115c86108bad424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.2.2_19ca9ecb54f8a6cc207205e2fdcd5895adf01701/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_17b57a390c0c2be2d5bae34b5ab951211ba1116d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_f9e8cc66bf91b0930edf05302ece40076505d089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_3d290997f91afa67c90b6b457f26c689ef46d870/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_2d489cc0b98dbff84f8672e05111c2122db1057c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.2.2_e499473adb197f1347b24fa017583f727fbeabbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_87f51aa3500a6f06b9d698cdf704903c2540d633/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/firebase-client-android-2.5.2_bad8292be05d89ac9e4747e141b5f06591df5628/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_4bf61667997cd274724a433210b37b3f9cced2d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_69d703346737cd7b00d03e13f4b64ea5ce6cd4d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.2_c81bdcce7932f45b3988cf7d8afe5a20f745e102/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_63d762231e0ee6162969016de95d30414c786106/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_81aa97bf318874a2f91cb29ae5b02365688cb026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_417e8703f08e1de0d3f48064100ac07675924727/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_b2ee8148f0e1f82d5ab1d419cbe1707870349912/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_f3fa41710245f4d722038c736f217d58031f0974/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_67b122d1bcc7f62a5c45a4d41422c2c28d2ff08c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_3bd067cf7b9f6f334001f90a9c36c72d021e6d14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_5b45d767ec2fc0381f61b6045cd967851222e922/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_905c44b38bc28e7a778158ea4fa414253df81f14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_1215fc949f9efaa9a0eb1bebab703dd342066adc/classes.dex" />
+    </item>
+
+</items>

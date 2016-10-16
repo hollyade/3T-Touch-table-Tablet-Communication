@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html >
+  <head>
+
+    <meta charset="UTF-8">
+    <title>Basic Hammer.js example</title>
+    <link rel="stylesheet" href="css/style.css">
+
+  </head>
+
+  <body>
+
+    <script src="https://cdn.rawgit.com/hammerjs/touchemulator/master/touch-emulator.js"></script>
+	  <script src="https://hammerjs.github.io/dist/hammer.js"></script>
+	  <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
+	  <script src="https://cdn.rawgit.com/julianshapiro/velocity/master/velocity.min.js"></script>
+    <script src='https://cdn.firebase.com/js/client/2.2.1/firebase.js'></script>
+
+    <div id="touchArea">
+      <canvas id="c" onclick="setCanvasOn(this)"></canvas><!-- 
+      <img div id="baby" onclick="setObjectTouch(this)" class="image" src="./images/Baby.jpg">
+      <img div id="bear" onclick="setObjectTouch(this)" class="image" src="./images/Bear.jpg"/>
+      <img div id="bunny" onclick="setObjectTouch(this)" class="image" src="./images/Bunny.jpg"/>
+      <img div id="dozey" onclick="setObjectTouch(this)" class="image" src="./images/Dozey.jpg"/>
+      <img div id="monkey" onclick="setObjectTouch(this)" class="image" src="./images/Monkey.jpg"/> -->
+    </div>
+    <div id="usernameblock"/>
+
+    
+    <script src="js/index.js"></script>
+    <script src="js/jquery.pxtouch.js"></script>
+    <script src="js/html2canvas.js"></script>
+    <script type="text/javascript">
+
+      var myFirebaseRef = new Firebase("https://hollyadehonours.firebaseio.com/");
+      var allDivs = new Set();
+
+      myFirebaseRef.child("Connection").child('TableConnected').set('Connection');
+
+
+      myFirebaseRef.child("Connection").on("child_added", function(snapshot, prevChildKey) {
+        var key = snapshot.key().split("_");
+        var username = key[0];
+        var color = key[1];
+        if (username!='TableConnected') {
+          var element = document.createElement("div");
+          element.appendChild(document.createTextNode(username));
+          element.style.backgroundColor = color;
+          element.setAttribute("align", "center");
+          element.style.display = "inline-block";
+          document.getElementById('usernameblock').appendChild(element);
+          allDivs.add(element);
+        }
+        var width = ((window.innerWidth)/(allDivs.size)).toString();
+        allDivs.forEach(function(el) {
+          var widthStr = (width).concat("px");
+          el.style.width = widthStr;
+        });
+
+      });
+
+
+      myFirebaseRef.child("Upload").on("child_added", function(snapshot, prevChildKey) {
+        var image = new Image();
+        var imageSrc = "data:image/jpeg;base64,";
+        imageSrc += snapshot.val();
+        image.src = imageSrc;
+        image.id = snapshot.key();
+        image.height = "200";
+        image.width = "200";
+        image.posX = "0";
+        image.posY = "0";
+        image.onclick = function() {setObjectTouch(this)};
+
+        document.getElementById("touchArea").appendChild(image);
+      });
+
+
+      myFirebaseRef.child("Screenshot").on("child_added", function(snapshot, prevChildKey) {
+        var username = snapshot.key();
+        var val = snapshot.val();
+        console.log(val);
+        html2canvas(document.body, {
+          onrendered: function(canvas) {
+            if (val=="Request") {
+              console.log("screenshot");
+              console.log(canvas);
+              var image = new Image();
+              image.src = document.getElementById('c').toDataURL("image/png");
+              var context = canvas.getContext('2d');
+
+
+              context.drawImage(image, 0, 0);
+              var imageFinal = canvas.toDataURL();
+
+              var imageStr = imageFinal.split(",");
+              myFirebaseRef.child("Screenshot").child(username).set(imageStr[1]);
+              //document.body.appendChild(canvas);
+            }
+          }
+        });
+      });
+
+    </script>
+
+  </body>
+</html>

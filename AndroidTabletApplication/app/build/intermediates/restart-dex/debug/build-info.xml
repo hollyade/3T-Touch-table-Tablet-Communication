@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="21"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="67927758629337"
+    token="8044255684013162476"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="53706977649557"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="62812946617677"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="64540321271682"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="67927758629337"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/Holly/Documents/Honours/3t_Honours_Project/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

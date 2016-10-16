@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/black"
+    android:alpha="0.7"
+    android:id="@+id/sendButtonActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1">
+        <RelativeLayout
+            android:layout_height="0dp"
+            android:layout_width="match_parent"
+            android:layout_weight="0.6"
+            android:orientation="vertical"
+            android:clipChildren="false">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textColor="@android:color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_above="@+id/sendInstructionButton"
+                android:text="Send Image to Table!"
+                android:id="@+id/sendImageInstruction" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="OK, got it!"
+                android:id="@+id/sendInstructionButton"
+                android:background="@android:color/transparent"
+                android:textColor="@color/colorAccent"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:onClick="finish"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/arrowRelativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4">
+
+            <ImageView android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentBottom="true"
+                android:alpha="1"
+                android:layout_marginLeft="150dp"
+                android:id="@+id/arrow_image"
+                android:src="@drawable/curved_arrow_white"/>
+        </RelativeLayout>
+    </LinearLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/buttonSendPictureTutorial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_send_white_48dp"
+        android:alpha="1"
+        android:clickable="false"
+        android:layout_marginTop="56dip"
+        android:visibility="invisible"
+        app:fabSize="mini"/>
+</RelativeLayout>
