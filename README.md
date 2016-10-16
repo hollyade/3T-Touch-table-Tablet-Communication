@@ -10,8 +10,8 @@ touch table written in HTML, CSS, Javascript, and JQuery, and one that runs on a
 Android device written in Android Java using Android Studio. With the goal of making
 sharing personal work for public collaboration easier, the applications proposed use an online
 database (Firebase) to enable two-way image and comment sharing between multiple
-tablets and a touch table.  
-The key system requirements:
+tablets and a touch table.    
+The key system requirements:  
 R1 (Image Sharing). Two-way image sharing consists of users having the ability to
 share their images from their personal device to the touch table, as well as receiving a
 screen capture of the touch tables current state back to their personal device.  
