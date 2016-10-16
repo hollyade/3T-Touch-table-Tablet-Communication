@@ -11,6 +11,7 @@ Android device written in Android Java using Android Studio. With the goal of ma
 sharing personal work for public collaboration easier, the applications proposed use an online
 database (Firebase) to enable two-way image and comment sharing between multiple
 tablets and a touch table.    
+<br>
 The key system requirements:  
 R1 (Image Sharing). Two-way image sharing consists of users having the ability to
 share their images from their personal device to the touch table, as well as receiving a
@@ -33,6 +34,7 @@ R6 (Drawing). Free-form drawing is the final major application feature, giving m
 users the ability to draw feedback, sketches, links, etc. on the table as they please.
 This is included as another avenue for users to collaborate expressively, which is especially
 important as 3T is a visual system.  
+<br>
 A key goal when designing the system was to keep the learning curve for first-time users
 minimal. This enables those with minimal touch device experience to become involved in
 the experience quickly and easily. This also minimises the fear of integrating a new technology
